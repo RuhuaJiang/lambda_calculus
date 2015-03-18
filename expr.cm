@@ -1,0 +1,9 @@
+Group is
+	$/basis.cm
+	set-sig.sml
+	lambda-sig.sml	
+	church-sig.sml
+	set.sml
+	lambda.sml
+	church.sml
+	expr.sml
